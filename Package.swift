@@ -1,5 +1,5 @@
 // swift-tools-version:5.9
-// OptiView Ads SDK — generated for v1.0.0-beta.4 by scripts/publish-spm.sh
+// OptiView Ads SDK — generated for v1.0.0-beta.5 by scripts/publish-spm.sh
 // (dolby-ads-sdk repo). Do not edit by hand: every release overwrites this file.
 //
 // Layers (each a separate binary module — take the one you need plus what it
@@ -19,18 +19,18 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OptiViewAdsCore",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.0.0-beta.4/OptiViewAdsCore.xcframework.zip",
-            checksum: "fffd9468d0aedd344741059b28ccb39a364ead34e021e554962f61981ee6bfe7"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.0.0-beta.5/OptiViewAdsCore.xcframework.zip",
+            checksum: "174574fca2e5fc42c28b86d8a52d13e7e9ba38107ad3c42bd6836782dc9ce85c"
         ),
         .binaryTarget(
             name: "OptiViewAdsSDK",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.0.0-beta.4/OptiViewAdsSDK.xcframework.zip",
-            checksum: "03f4002966fbd6ad56f4b6b2791ad8ab8b6e430988e3fba4a80a220bd45cfb38"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.0.0-beta.5/OptiViewAdsSDK.xcframework.zip",
+            checksum: "d6867b30a7c5e9321650d92845822d379bb2a51d7f44ba113bf2930e4129f924"
         ),
         .binaryTarget(
             name: "OptiViewAdsRuntime",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.0.0-beta.4/OptiViewAdsRuntime.xcframework.zip",
-            checksum: "6700129d7127f521a946385f3176707c901be912e8d5b64a96a6315eaf3c82e4"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.0.0-beta.5/OptiViewAdsRuntime.xcframework.zip",
+            checksum: "f9948b0d6cc4d06c7b3cbbd7a4c1f28b5edb0ca890ded71fd11cc6c607af3e75"
         ),
     ]
 )
