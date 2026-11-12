@@ -1,5 +1,5 @@
 // swift-tools-version:5.9
-// OptiView Ads SDK — generated for v1.5.1 by scripts/publish-spm.sh
+// OptiView Ads SDK — generated for v1.6.0 by scripts/publish-spm.sh
 // (dolby-ads-sdk repo). Do not edit by hand: every release overwrites this file.
 //
 // Layers (each a separate binary module — take the one you need plus what it
@@ -22,33 +22,33 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OptiViewAdsCore",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.5.1/OptiViewAdsCore.xcframework.zip",
-            checksum: "9d385e785989e0e6486b8b33eb08c5d8184b13ec25ffd5231510342a3baae678"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.6.0/OptiViewAdsCore.xcframework.zip",
+            checksum: "f09b05ced86f72b9cad104d74a173cf59c554a4e201c1ee8a33b9889ce726a14"
         ),
         .binaryTarget(
             name: "OptiViewAdsSDK",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.5.1/OptiViewAdsSDK.xcframework.zip",
-            checksum: "a323ce2579622189697da8a25f8e40963944d71f258972c4d44f51bf254db11b"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.6.0/OptiViewAdsSDK.xcframework.zip",
+            checksum: "c080f1a9ea6ab6dfac81421726f17bf7cf47eb6f1e8e0d5a7330fd6144bd732b"
         ),
         .binaryTarget(
             name: "OptiViewAdsRuntime",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.5.1/OptiViewAdsRuntime.xcframework.zip",
-            checksum: "4bcc41a966fca561f57b7fab58ff72602e715fc161f47f11486e66af06c856ee"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.6.0/OptiViewAdsRuntime.xcframework.zip",
+            checksum: "63950b361da7136007157909102c1a4db7656a8e5a034c7dbc7e03f0ae990a49"
         ),
         .binaryTarget(
             name: "OptiViewAdsReactBridge",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.5.1/OptiViewAdsReactBridge.xcframework.zip",
-            checksum: "f0e92ce05db98fd5719f45a657f10bc435cc0e2f1bb666b90086f2dad9b429f6"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.6.0/OptiViewAdsReactBridge.xcframework.zip",
+            checksum: "028f862acc8fd2da0fe99ace0b109b532b1bd1101c1de520d3d2d83316130a2a"
         ),
         .binaryTarget(
             name: "OptiViewAdsAdapterTHEOplayer",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.5.1/OptiViewAdsAdapterTHEOplayer.xcframework.zip",
-            checksum: "25e59b0d2cc0826873eb1bd7910fedc252f6980a71851f144acc210d59844fb4"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.6.0/OptiViewAdsAdapterTHEOplayer.xcframework.zip",
+            checksum: "f57dcbc29ed697e2ccec01e30abc49302aace87319dfdbb133ad888623bce3c4"
         ),
         .binaryTarget(
             name: "OptiViewAdsAdapterTestKit",
-            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.5.1/OptiViewAdsAdapterTestKit.xcframework.zip",
-            checksum: "ae4256dddff073f426cde04a37aca109e66a1e1bc760a21fa23e822c0d256fe0"
+            url: "https://ads-sdk.xagget.prudentgiraffe.com/ios/main/1.6.0/OptiViewAdsAdapterTestKit.xcframework.zip",
+            checksum: "76883b85da8bd9078a86273befd5e38f9f97e18bf328e148295517204cf2e9e6"
         ),
     ]
 )
